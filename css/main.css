@@ -150,5 +150,6 @@ section {
     color: white;
     width: 100px;
     height: 30px;
+    border: 0;
     padding: 0;
 }
