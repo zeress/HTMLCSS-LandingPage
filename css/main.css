@@ -102,3 +102,18 @@ section {
     border-color: #a0a0a0;
     color: #8598a2;
 }
+
+.text-light {
+    font-size: 30px;
+    color: #a0a0a0;
+}
+
+.text-secondary {
+    font-size: 30px;
+    color: #faa541;
+}
+
+.text-primary {
+    font-size: 16px;
+    color: #364147;
+}
