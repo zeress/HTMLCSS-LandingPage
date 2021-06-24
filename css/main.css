@@ -135,3 +135,12 @@ section {
     max-width: 100%;
     height: auto;
 }
+
+.search-box {
+    width: 330px;
+    height: 30px;
+    padding: 6px 12px;
+    border-width: 1px;
+    border-color: #a0a0a0;
+    border-style: solid;
+}
